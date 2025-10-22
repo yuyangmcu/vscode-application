@@ -33,3 +33,12 @@ Chinese(Simplified)，即中文环境
     主要是资源管理器下各个文件夹的图标
 }
 
+4、IntelliCode 代码补全工具
+{
+   Microsoft 出品的 IntelliCode 
+   它的强项是上下文感知的代码补全。
+   不像简单的自动补全只基于当前输入，
+   IntelliCode 会分析整个代码库的模式，
+   提供更智能的建议。最重要的是，它完全免费 
+}
+
