@@ -20,7 +20,7 @@ Chinese(Simplified)，即中文环境
 
 1、One Dark Pro， VSCode 的主题 
 {
-    灰色主题
+    灰色主题 目前我最喜欢的主题
 }
 
 2、Rainbow Brackets，彩虹花括号
