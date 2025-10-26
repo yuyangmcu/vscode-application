@@ -25,7 +25,7 @@ Chinese(Simplified)，即中文环境
 
 2、Rainbow Brackets，彩虹花括号
 {
-    有助于阅读代码
+    有助于阅读代码 ，新版本已经集成在内部
 }
 
 3、vscode-icons， VSCode 图标插件，
