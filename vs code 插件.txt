@@ -42,3 +42,4 @@ Chinese(Simplified)，即中文环境
    提供更智能的建议。最重要的是，它完全免费 
 }
 
+5、beyond compare
